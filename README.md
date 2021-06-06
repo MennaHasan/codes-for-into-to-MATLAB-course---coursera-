@@ -1,2 +1,3 @@
 # MATLAB
-I will keep here all my code while studying the MATLAB specialization
+This repository contains all the functions and MATLAB codes I have written while practicing programming with MATLAB
+each file here contains a specific function doing a specific task 
